@@ -1,3 +1,6 @@
 .env
 
-envs
+# evns/.env.development
+
+envs/*
+!envs/.gitkeep
